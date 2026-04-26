@@ -4,6 +4,8 @@ Python wrapper để tạo và chỉnh sửa hình ảnh thông qua `codex exec`
 
 **Không cần `OPENAI_API_KEY`** — Codex tự xử lý authentication qua ChatGPT OAuth.
 
+Sau khi setup, dùng script này để tạo Skill cho Antigravity/Claude... để có thể tạo ảnh bằng OpenAI Image-Gen-2. Chi tiết: https://www.facebook.com/nguyenhung.vietnix/posts/pfbid02vz9wF97a85TKxBNriTHduxpJjvg17HAeT84HFzfwB7DQ7sQV8g7pK4fCxsmmZ9nhl
+
 ## Yêu cầu
 
 - [Codex CLI](https://github.com/openai/codex) đã cài đặt và đăng nhập (`codex login`)
